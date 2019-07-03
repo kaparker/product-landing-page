@@ -159,9 +159,9 @@ nav > ul {
     transition: background-color 1s;
 }
 
-@media (max-width: 650px) {
+@media (max-width: 600px) {
     #intro {
-        margin-top: 50px;
+        margin-top: 300px;
     }
 }
 
